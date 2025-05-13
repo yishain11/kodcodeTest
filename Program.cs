@@ -9,6 +9,8 @@ namespace kodcodeTest
     internal class Program
     {
         static void greet() { }
+
+        static void showMenu() { }
         static void Main(string[] args)
         {
             greet();
